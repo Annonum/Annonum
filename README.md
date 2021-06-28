@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Annonum
 - 👀 I’m interested in Hacking
 - 🌱 I’m currently learning Kali Linux
-- 💞️ I’m looking some friend/teacher who can help me
+- 💞️ I’m looking some friend/teacher who can help me in becoming an Ethical Hacker
 - 📫 How to reach me 
 
 <!---
